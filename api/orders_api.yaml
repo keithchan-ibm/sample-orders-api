@@ -1,20 +1,20 @@
 openapi: 3.0.1
 info:
-  title: order
+  title: order-<name/initials>
   description: View and track your orders and deliveries.
   termsOfService: https://github.com/ibm-apiconnect/sample-orders-api
   contact:
     name: IBM Corporation
     url: https://www.ibm.com/products/api-connect
   version: 2.0.0
-  x-ibm-name: sample-order-api
+  x-ibm-name: sample-order-api-<name/initials>
 externalDocs:
   description:
     "Github project for this API, containing source code and deployment\
     \ pipeline"
   url: https://github.com/keithchan-ibm/sample-orders-api
 servers:
-  - url: /order
+  - url: /order-<name/initials>
 security:
   - clientID: []
 paths:
