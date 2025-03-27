@@ -1,6 +1,6 @@
 # API Sample: Order tracking
 
-This git repo contains a sample API to use with API Connect as part of T4 Training.
+This git repo contains a sample API to use with API Connect as part of T3 Training.
 
 This document will guide you through the introductory/basic steps to import the sample API into your API Connect instance, create an API definition, and test the response of your API in order to validate the API returns what you expect.
 
